@@ -1,0 +1,46 @@
+.name{
+    font-family: Arial;
+
+}
+
+.speech{
+
+    font-family:serif;
+    font-size: small;
+    color: black;
+}
+
+.direction{
+
+    font-family:Verdana;
+    font-size: small;
+    color: black;
+    background-color: thistle;
+}
+.direction:hover{
+    background-color:khaki;
+    color: darkcyan;
+}
+
+.stockmann{
+    color: crimson;
+}
+
+.horster{
+
+    color: violet;
+}
+
+.petra{
+    color: tomato;
+}
+
+.aslaken{
+    color: seagreen;
+}
+.hovstad{
+    color: purple;
+}
+
+
+

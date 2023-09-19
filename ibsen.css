@@ -1,17 +1,12 @@
 .name{
     font-family: Arial;
-
 }
-
 .speech{
-
     font-family:serif;
     font-size: small;
     color: black;
 }
-
 .direction{
-
     font-family:Verdana;
     font-size: small;
     color: black;
@@ -21,26 +16,44 @@
     background-color:khaki;
     color: darkcyan;
 }
-
 .stockmann{
     color: crimson;
 }
-
 .horster{
-
     color: violet;
 }
-
 .petra{
     color: tomato;
 }
-
 .aslaken{
     color: seagreen;
 }
 .hovstad{
     color: purple;
 }
+
+table, td, th {  
+    border: 1px solid #c71010;
+    text-align: center;
+  }
+  
+  table {
+    border-collapse: inherit;
+    width: 70%;
+  }
+  th{
+    background-color: rgb(82, 238, 142);
+    font-family:sans-serif;
+  }
+  td{
+
+    color: blueviolet;
+    font-family: cursive;
+  }
+  
+  th, td {
+    padding: 15px;
+  }
 
 
 
